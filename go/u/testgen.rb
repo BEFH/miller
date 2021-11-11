@@ -2,7 +2,7 @@
 
 require 'fileutils'
 
-$parentdir = "regtest/cases/dsl-first-class-functions"
+$parentdir = "test/cases/dsl-first-class-functions"
 
 def make_case(name, mlr)
   casedir = $parentdir + '/' + name
