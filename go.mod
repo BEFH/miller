@@ -14,7 +14,7 @@ go 1.15
 
 require (
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
-	github.com/lestrrat-go/strftime v1.0.5
+	github.com/lestrrat-go/strftime v1.0.6
 	github.com/mattn/go-isatty v0.0.14
 	github.com/pkg/profile v1.6.0
 	github.com/stretchr/testify v1.7.0
